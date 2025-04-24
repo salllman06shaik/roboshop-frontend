@@ -1,4 +1,4 @@
-name: frontend ci
+name: Frontend ci
 on: [push,workflow_dispatch]
 jobs:
   common:
